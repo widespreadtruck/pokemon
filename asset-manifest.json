@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pokemon/static/css/main.d77d1c61.chunk.css",
+    "main.js": "/pokemon/static/js/main.f3697923.chunk.js",
+    "main.js.map": "/pokemon/static/js/main.f3697923.chunk.js.map",
+    "runtime-main.js": "/pokemon/static/js/runtime-main.1a9cb6e4.js",
+    "runtime-main.js.map": "/pokemon/static/js/runtime-main.1a9cb6e4.js.map",
+    "static/js/2.8ca9ba3c.chunk.js": "/pokemon/static/js/2.8ca9ba3c.chunk.js",
+    "static/js/2.8ca9ba3c.chunk.js.map": "/pokemon/static/js/2.8ca9ba3c.chunk.js.map",
+    "index.html": "/pokemon/index.html",
+    "precache-manifest.ede4d27e1c90a8cb61ebfb255fc12df0.js": "/pokemon/precache-manifest.ede4d27e1c90a8cb61ebfb255fc12df0.js",
+    "service-worker.js": "/pokemon/service-worker.js",
+    "static/css/main.d77d1c61.chunk.css.map": "/pokemon/static/css/main.d77d1c61.chunk.css.map",
+    "static/js/2.8ca9ba3c.chunk.js.LICENSE.txt": "/pokemon/static/js/2.8ca9ba3c.chunk.js.LICENSE.txt",
+    "static/media/Pokeball.png": "/pokemon/static/media/Pokeball.ed23546e.png",
+    "static/media/Wrapper.module.css": "/pokemon/static/media/background1.50fa1070.png",
+    "static/media/logo.png": "/pokemon/static/media/logo.de8a0f82.png",
+    "static/media/question.png": "/pokemon/static/media/question.b23ae5ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a9cb6e4.js",
+    "static/js/2.8ca9ba3c.chunk.js",
+    "static/css/main.d77d1c61.chunk.css",
+    "static/js/main.f3697923.chunk.js"
+  ]
+}
