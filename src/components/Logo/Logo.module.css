@@ -1,0 +1,5 @@
+.Logo {
+    grid-area: 10 / 4 / 13 / 10;
+    height: 100%;
+    display: block;
+}

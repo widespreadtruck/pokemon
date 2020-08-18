@@ -3,7 +3,7 @@ import styles from './StartButton.module.css';
 
 const StartButton = (props) => {
     return(
-        <button className="div1">Re-start</button>
+        <button className={styles.StartButton}>Re-start</button>
     )
 }
 
